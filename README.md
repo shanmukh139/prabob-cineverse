@@ -73,25 +73,12 @@ https://www.linkedin.com/in/k-s-sai-vignesh-831ab1287
 
 ### Home Page
 
-![Home](home.png)
+![Home](screenshots/home.png)
 
 ### Movies Page
 
-![Movies](movies.png)
+![Movies](screenshots/movies.png)
 
 ### Add Review Page
 
-![Add Review](review.png)
-## 📸 Screenshots
-
-### Home Page
-
-![Home](home.png)
-
-### Movies Page
-
-![Movies](movies.png)
-
-### Add Review Page
-
-![Add Review](review.png)
+![Add Review](screenshots/review.png)
