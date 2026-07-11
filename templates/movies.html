@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movies</title>
+    <style>
+        body { background:#0f172a; color:white; font-family:Arial;}
+        .movie { background:#1e293b; padding:15px; margin:15px; border-radius:10px;}
+    </style>
+</head>
+<body>
+
+<h1 style="text-align:center;">🎬 Movies List</h1>
+
+{% for movie in movies[:1] %}
+<div class="movie">
+
+    <img src="/static/prabob.jpg" width="200">
+
+    <h2>{{ movie[1] }}</h2>
+
+    <p><b>Genre:</b> {{ movie[2] }}</p>
+    <p><b>Year:</b> {{ movie[4] }}</p>
+
+    <p><b>Story:</b></p>
+    <p style="text-align:justify;">
+    PraBob is an action-packed story of two brothers separated in childhood who unknowingly reunite as enemies — one an Interpol officer and the other a deadly assassin. As dark secrets unfold, a tale of revenge, betrayal, and a powerful mastermind leads them into an epic confrontation.
+    </p>
+
+</div>
+{% endfor %}
+
+</body>
+</html>
