@@ -69,3 +69,16 @@ http://127.0.0.1:5000/
 
 LinkedIn:
 https://www.linkedin.com/in/k-s-sai-vignesh-831ab1287
+## 📸 Screenshots
+
+### Home Page
+
+![Home](home.png)
+
+### Movies Page
+
+![Movies](movies.png)
+
+### Add Review Page
+
+![Add Review](review.png)
